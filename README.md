@@ -1,4 +1,4 @@
-# Super Store Analysis using Tableau
+# Super Store Analysis using Excel
 This project presents an interactive Super Store Analysis Dashboard, providing insights into sales performance, profit distribution, and return orders. The dashboard visualizes key metrics across different dimensions such as sales representatives, product categories, and geographic regions.
 
 ## Key Performance Indicators (KPIs)
